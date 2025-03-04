@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://codepen.io/crlgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="crlgamer" height="30" width="40" /></a>
 <a href="https://codesandbox.com/crlgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="crlgamer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/crlgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crlgamer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@crlgamer009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="crlgamer" height="30" width="40" /></a>
 <a href="https://discord.gg/4U6D7AbHm6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4U6D7AbHm6" height="30" width="40" /></a>
 </p>
 
