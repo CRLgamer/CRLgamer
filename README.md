@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crlgamer" alt="crlgamer" /></a> </p>
 
-- 🔭 I’m currently working on [MCclient v1.0](https://github.com/CRLgamer/MCclient-v1.0)
+- 🔭 I’m currently working on [MCclient v2.0](https://github.com/CRLgamer/MCclient-v2.0)
 
 - 🌱 I’m currently learning **Python**
 
