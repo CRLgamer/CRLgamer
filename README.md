@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crlgamer&label=Profile%20views&color=0e75b6&style=flat" alt="crlgamer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crlgamer" alt="crlgamer" /></a> </p>
-
 - 🔭 I’m currently working on [MCclient v2.0](https://github.com/CRLgamer/MCclient-v2.0)
 
 - 🌱 I’m currently learning **Python**
