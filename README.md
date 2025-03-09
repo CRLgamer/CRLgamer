@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CRLgamer</h1>
 <h3 align="center">A passionate developer in the USA.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crlgamer&label=Profile%20views&color=0e75b6&style=flat" alt="crlgamer" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=crlgamer&label=Profile%20views&color=0e75b6&style=flat" alt="crlgamer" /> </p>
 
 - 🔭 I’m currently working on [MCclient v2.0](https://github.com/CRLgamer/MCclient-v2.0)
 
