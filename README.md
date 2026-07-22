@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm **CRLgamer**, a passionate developer from New York, USA! I enjoy creating innovative solutions and exploring new technologies.
+I'm **Bharath**, a passionate developer from New York, USA! I enjoy creating innovative solutions and exploring new technologies.
 
 ## About Me
 
